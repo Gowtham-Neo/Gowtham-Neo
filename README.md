@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/gowthams3760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gowthams3760" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iam-gowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iam-gowtham" height="30" width="40" /></a>
-<a href="https://instagram.com/_gowri_offl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gowri_offl" height="30" width="40" /></a>
+<a href="https://instagram.com/gowtham__neo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gowri_offl" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/silverscreenstories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silverscreenstories" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/s_gowtham_engr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_gowtham_engr" height="30" width="40" /></a>
 </p>
